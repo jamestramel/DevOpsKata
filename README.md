@@ -1,6 +1,5 @@
 # DevOps Katas
 
-
 Welcome to a new way to skill up your team and immediately impact objectives and initiatives.  
 
 Goals  
